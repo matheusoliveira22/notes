@@ -20,3 +20,8 @@ kubectl apply -f [yamlfile]     #apply pod detecting the changes within the spec
 0                # list all the pods currently running on the cluster
 :q               # close k9s
 ```
+
+### Vim
+```bash
+:set paste       # change mode to make pasting easy
+```
