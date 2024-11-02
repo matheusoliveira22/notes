@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ea92c82b69562d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9e62cfd27d9129e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c99afe278b594c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kubernetes/1. Local lab setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Local lab setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2198e14a3c860ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "19ca9f3b387fae10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0425fe10560eb75e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "13c7f7ec7c1e7b08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a894911730845f8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "455c8863964fac25",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef47a7a6014c85d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d3d2fb96a7f21e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kubernetes/1. Local lab setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 1. Local lab setup"
+            }
+          },
+          {
+            "id": "021359c98c02d2a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kubernetes/1. Local lab setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 1. Local lab setup"
+            }
+          },
+          {
+            "id": "061e5dc67bf07cf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "173cc215cc82842a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kubernetes/1. Local lab setup.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1. Local lab setup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6c99afe278b594c6",
+  "lastOpenFiles": [
+    "README.md",
+    "kubernetes/1. Local lab setup.md",
+    "kubernetes/setup local lab/Steps.md",
+    "kubernetes/setup local lab",
+    "Sem título.md",
+    "kubernetes"
+  ]
+}
