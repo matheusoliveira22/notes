@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubernetes/1. Local lab setup.md",
+                "file": "kubernetes/1. What is Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Local lab setup"
+              "title": "1. What is Kubernetes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kubernetes/1. Local lab setup.md",
+                "file": "kubernetes/1. What is Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 1. Local lab setup"
+              "title": "Links inversos para 1. What is Kubernetes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kubernetes/1. Local lab setup.md",
+                "file": "kubernetes/1. What is Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 1. Local lab setup"
+              "title": "Links de saída para 1. What is Kubernetes"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kubernetes/1. Local lab setup.md"
+                "file": "kubernetes/1. What is Kubernetes.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1. Local lab setup"
+              "title": "Sumário de 1. What is Kubernetes"
             }
           }
         ]
@@ -164,13 +164,14 @@
   },
   "active": "6c99afe278b594c6",
   "lastOpenFiles": [
+    "kubernetes/2. Local lab setup.md",
+    "kubernetes/1. What is Kubernetes.md",
+    "Sem título.md",
     "kubernetes/Commands for Managing Kubernetes Cluster.md",
-    "kubernetes/1. Local lab setup.md",
     "kubernetes/Sem título",
     "README.md",
     "kubernetes/setup local lab/Steps.md",
     "kubernetes/setup local lab",
-    "Sem título.md",
     "kubernetes"
   ]
 }
