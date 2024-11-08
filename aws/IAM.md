@@ -78,3 +78,15 @@
 	- A report that lists all your account's users and the status of their various credentials
 - IAM Access Advisor (user-level)
 	- Access advisor shows the service permissions granted to a user and when those services were last accessed
+
+### Shared Responsibility Model for IAM
+- AWS is responsible for:
+	- Infrastructure (global network security)
+	- Configuration and vulnerability analisys
+	- Compliance validation
+- We:
+	- The correct usage and definition of Users, Groups, Roles, Policies management and monitoring
+	- Enable MFA on all accounts
+	- Rotate all keys often
+	- Use IAM tools to apply appropriate permissions
+	- Analyze access patterns & review permissions
