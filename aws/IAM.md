@@ -67,3 +67,14 @@
 	- AWS Software Developer Kit (SDK): Protected by access keys
 - Access Keys are generated through the AWS Console
 - Users manage their own access keys
+
+### IAM Roles for Services
+- Services in AWS may do actions in the account
+- For that, they need to have a role that allows then to execute the required actions
+- Example: EC2 may need to read messages from SQS, so it will need a role that has the permission to do that (policy attached to the role)
+
+### IAM Security Tools
+- IAM Credentials Report (accont-level)
+	- A report that lists all your account's users and the status of their various credentials
+- IAM Access Advisor (user-level)
+	- Access advisor shows the service permissions granted to a user and when those services were last accessed
