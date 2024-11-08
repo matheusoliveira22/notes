@@ -11,10 +11,14 @@
             "id": "8e14e2da169098c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "aws/IAM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IAM"
             }
           }
         ]
@@ -91,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "aws/IAM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,5 +145,8 @@
     }
   },
   "active": "8e14e2da169098c7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "aws/IAM.md",
+    "aws"
+  ]
 }
