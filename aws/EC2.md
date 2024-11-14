@@ -15,3 +15,5 @@ Name convention:
 - Compute Optimized (C)
 	- Great for computr-intensive tasks that require high performance processors
 	- Workloads examples: Batch processing, Media transcoding, HP (high performance) web servers, HP Computing, Scientific Modeling & Machine Learning, Dedicated Game Servers
+- Memory Optimized
+	- Fast performance for work
