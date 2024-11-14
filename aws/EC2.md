@@ -9,4 +9,5 @@ Name convention:
 	- m: instance class
 	- 5: Generation (AWS improves over time)
 	- 2xlarge: Size withing instance class
---Intance 
+- Intance classes
+	- General Purpose
