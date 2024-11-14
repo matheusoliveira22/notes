@@ -15,6 +15,6 @@ Name convention:
 - Compute Optimized (C)
 	- Great for computr-intensive tasks that require high performance processors
 	- Workloads examples: Batch processing, Media transcoding, HP (high performance) web servers, HP Computing, Scientific Modeling & Machine Learning, Dedicated Game Servers
-- Memory Optimized
+- Memory Optimized (R)
 	- Fast performance for workloads that process large datasets in memory
 	- Use cases: Relational/Non-relational databases, Distributrd web scale cache, In-memory databases for BI, Applications performing real-time processing of big unstructured data
