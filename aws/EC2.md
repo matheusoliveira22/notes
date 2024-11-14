@@ -17,4 +17,4 @@ Name convention:
 	- Workloads examples: Batch processing, Media transcoding, HP (high performance) web servers, HP Computing, Scientific Modeling & Machine Learning, Dedicated Game Servers
 - Memory Optimized
 	- Fast performance for workloads that process large datasets in memory
-	- Use cases: Relational/Non-relational databases, Distributrd web scale cache, In-memory databases for BI
+	- Use cases: Relational/Non-relational databases, Distributrd web scale cache, In-memory databases for BI, Applications
