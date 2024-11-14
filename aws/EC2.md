@@ -13,4 +13,5 @@ Name convention:
 	- General Purpose: Great for a diversity of workloads such as web servers
 	- Balance Between: compute, memory and networking
 - Compute Optimized
-	- Great for computr-intensive tasks that require
+	- Great for computr-intensive tasks that require high performance processors
+	- 
