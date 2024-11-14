@@ -10,4 +10,5 @@ Name convention:
 	- 5: Generation (AWS improves over time)
 	- 2xlarge: Size withing instance class
 - Intance classes
-	- General Purpose: Great for a diversity of workloads
+	- General Purpose: Great for a diversity of workloads such as web servers
+	- Balance Between: compute, memory and
