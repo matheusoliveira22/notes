@@ -4,3 +4,5 @@
 - SSH Keypair must be set at creation
 
 ### EC2 Instance Types
+Name convention:
+- m2.xlarge
