@@ -1,2 +1,3 @@
 - EC2 stands for Elastic Compute Cloud (Virtual Machines)
 - Bootstrap script - User data
+- Firewall rules - security groups
