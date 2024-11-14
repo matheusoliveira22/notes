@@ -12,4 +12,5 @@ Name convention:
 - Intance classes
 	- General Purpose: Great for a diversity of workloads such as web servers
 	- Balance Between: compute, memory and networking
---Compute 
+- Compute Optimized
+	- Great for computr-intensi
