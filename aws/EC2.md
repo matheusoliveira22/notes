@@ -5,4 +5,5 @@
 
 ### EC2 Instance Types
 Name convention:
-- m2.xlarge
+- m2.2xlarge
+	- 
