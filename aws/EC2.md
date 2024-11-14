@@ -1,1 +1,1 @@
-EC2 stands for Elastic Compute Cloud (Virtual Machines)
+- EC2 stands for Elastic Compute Cloud (Virtual Machines)
