@@ -2,3 +2,5 @@
 - Bootstrap script - User data - Rubs with root account
 - Firewall rules - security groups
 - SSH Keypair must be set at creation
+
+### EC2 I
