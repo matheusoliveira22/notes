@@ -1,0 +1,1 @@
+EC2 stands for Elastic Compute Cloud
