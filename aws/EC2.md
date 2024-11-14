@@ -8,3 +8,4 @@ Name convention:
 - m5.2xlarge
 	- m: instance class
 	- 5: Generation (AWS improves over time)
+	- 2xlarge: Size withing instance class
