@@ -7,3 +7,4 @@
 Name convention:
 - m5.2xlarge
 	- m: instance class
+	- 5: Generation
