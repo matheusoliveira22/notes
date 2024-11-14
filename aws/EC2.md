@@ -19,4 +19,5 @@ Name convention:
 	- Fast performance for workloads that process large datasets in memory
 	- Use cases: Relational/Non-relational databases, Distributrd web scale cache, In-memory databases for BI, Applications performing real-time processing of big unstructured data
 - Storage Optimized
+	- Great for storage-intensive tasks
 	- 
