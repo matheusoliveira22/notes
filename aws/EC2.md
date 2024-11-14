@@ -14,4 +14,4 @@ Name convention:
 	- Balance Between: compute, memory and networking
 - Compute Optimized
 	- Great for computr-intensive tasks that require high performance processors
-	- Workloads examples: Batch processing, Media transcoding
+	- Workloads examples: Batch processing, Media transcoding,
