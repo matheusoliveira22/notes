@@ -12,6 +12,6 @@ Name convention:
 - Intance classes
 	- General Purpose: Great for a diversity of workloads such as web servers
 	- Balance Between: compute, memory and networking
-- Compute Optimized
+- Compute Optimized (c)
 	- Great for computr-intensive tasks that require high performance processors
 	- Workloads examples: Batch processing, Media transcoding, HP (high performance) web servers, HP Computing, Scientific Modeling & Machine Learning, Dedicated Game Servers
