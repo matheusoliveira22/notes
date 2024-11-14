@@ -6,4 +6,4 @@
 ### EC2 Instance Types
 Name convention:
 - m2.2xlarge
-	- 
+	- m: instance class
