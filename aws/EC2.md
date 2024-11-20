@@ -31,7 +31,9 @@ Name convention:
 	- Spot Fleet - Spot Instances + (optional) Dedicated Hosts - Will try to meet capacity requirements with price constraints
 	- Strategies:
 		- lowestPrice
-		- 
+		- diversified
+		- capacityOptimized
+		- priceCapacityOptimize
 - Dedicated Hosts (Entire Fisical Server)
 	- Use Cases: Compliance Requirements, server-bound software licenses
 - Dedicated Instances (Not sharing hardware with other costumers)
