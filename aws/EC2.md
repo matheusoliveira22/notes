@@ -33,4 +33,4 @@ Name convention:
 - Dedicated Instances (Not sharing hardware with other costumers)
 - Capacity Reservation (Reserve capacity in an specific AZ for any duration)
 	- No billing discount
-	- 
+	- Charged by On-Demand rate even if you not use 
