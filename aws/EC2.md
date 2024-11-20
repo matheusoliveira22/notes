@@ -33,7 +33,7 @@ Name convention:
 		- lowestPrice
 		- diversified
 		- capacityOptimized
-		- priceCapacityOptimize
+		- priceCapacityOptimized (recommended)
 - Dedicated Hosts (Entire Fisical Server)
 	- Use Cases: Compliance Requirements, server-bound software licenses
 - Dedicated Instances (Not sharing hardware with other costumers)
