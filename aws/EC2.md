@@ -26,4 +26,5 @@ Name convention:
 - On-Demand Instances
 - Reserved (1 & 3 years) -> Convertible Reserved Instances (flexible instances)
 - Savings Plan (1 & 3 years)
-- Spot Instances
+- Spot Instances (can lose instances)
+- 
