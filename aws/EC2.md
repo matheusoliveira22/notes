@@ -25,3 +25,4 @@ Name convention:
 ### EC2 Purchasing Options
 - On-Demand Instances
 - Reeserved (1 & 3 years)
+- 
