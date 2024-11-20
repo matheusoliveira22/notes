@@ -1,2 +1,3 @@
 - Fundamental of network security in AWS
 - They control how traffic is allowed into or out of an instance
+- They only contain allow rules
