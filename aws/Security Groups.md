@@ -16,4 +16,5 @@
 ### Classic Ports to know
 - 22 - SSH (Secure Shell)
 - 21 - FTP (File Transfer Protocol)
-- 22 - SFTP (Secure File Transfer Protoco)
+- 22 - SFTP (Secure File Transfer Protocol) - via SSH
+- 
