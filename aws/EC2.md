@@ -24,5 +24,5 @@ Name convention:
 
 ### EC2 Purchasing Options
 - On-Demand Instances
-- Reserved (1 & 3 years) -> Convertib
+- Reserved (1 & 3 years) -> Convertible Reserved Inst
 - 
