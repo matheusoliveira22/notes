@@ -29,6 +29,9 @@ Name convention:
 	- Locked to specific instance family and AWS region
 - Spot Instances - most agressive discount (can lose instances)
 	- Spot Fleet - Spot Instances + (optional) Dedicated Hosts - Will try to meet capacity requirements with price constraints
+	- Strategies:
+		- lowestPrice
+		- 
 - Dedicated Hosts (Entire Fisical Server)
 	- Use Cases: Compliance Requirements, server-bound software licenses
 - Dedicated Instances (Not sharing hardware with other costumers)
