@@ -23,3 +23,5 @@ Name convention:
 	- Examples: Cache for in-memory caches, Data warehousing applications, Distributed File Systems
 
 ### EC2 Purchasing Options
+- On-Demand Instances
+- Reeserved (1 & 3 years)
