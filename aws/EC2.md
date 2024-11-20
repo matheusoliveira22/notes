@@ -26,7 +26,7 @@ Name convention:
 - On-Demand Instances
 - Reserved (1 & 3 years) -> Convertible Reserved Instances (flexible instances)
 - Savings Plan (1 & 3 years)
-	- Locked to specific 
+	- Locked to specific instance family and AWS region
 - Spot Instances (can lose instances)
 - Dedicated Hosts (Entire Fisical Server)
 - Dedicated Instances (Not sharing hardware with other costumers)
