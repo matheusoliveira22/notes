@@ -14,3 +14,5 @@
 - By default all **inbound traffic** is **blocked** an all **outbound traffic** is **authorized**
 
 ### Classic Ports to know
+- 22 - SSH (Secure Shell)
+- 22 - FTP 
