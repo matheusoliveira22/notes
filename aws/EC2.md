@@ -28,7 +28,7 @@ Name convention:
 - Savings Plan (1 & 3 years)
 	- Locked to specific instance family and AWS region
 - Spot Instances - most agressive discount (can lose instances)
-	- Spot Fleet - Spot Instances + (optional) Dedicated Hosts - Will try to meet capacity requirements with price constraints
+	- Spot Fleet - Spot Instances + (optional) Dedicated Hosts - Will try to meet capacity requirements with price constraints. It allow us to 
 	- Strategies:
 		- lowestPrice
 		- diversified
