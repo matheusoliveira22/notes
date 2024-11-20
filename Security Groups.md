@@ -10,4 +10,4 @@
 - The SG lives outside the EC2, like this, if an request is blocked, the insance will not notice it
 - It's good to maintain one separated SG for ssh connection
 - Error handling:
-	- If the application is not accessible 
+	- If the application is not accessible (time out), then it problably means that is an SG issue
