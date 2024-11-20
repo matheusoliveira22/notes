@@ -27,7 +27,7 @@ Name convention:
 - Reserved (1 & 3 years) -> Convertible Reserved Instances (flexible instances)
 - Savings Plan (1 & 3 years)
 	- Locked to specific instance family and AWS region
-- Spot Instances (can lose instances)
+- Spot Instances - most agr (can lose instances)
 - Dedicated Hosts (Entire Fisical Server)
 - Dedicated Instances (Not sharing hardware with other costumers)
 - Capacity Reservation (Reserve capacity in an specific AZ for any duration)
