@@ -11,4 +11,4 @@
 - It's good to maintain one separated SG for ssh connection
 - Error handling:
 	- If the application is not accessible (time out), then it problably means that is an SG issue
-	- 
+- By default all **inbound traffic** is **blocked** an all **outbound traffic** is
