@@ -19,4 +19,4 @@
 - 22 - SFTP (Secure File Transfer Protocol) - via SSH
 - 80 - HTTP
 - 443 - HTTPS
-- 3389 - RDP 
+- 3389 - RDP (Remote Desktop Protocol)
