@@ -27,4 +27,4 @@ Name convention:
 - Reserved (1 & 3 years) -> Convertible Reserved Instances (flexible instances)
 - Savings Plan (1 & 3 years)
 - Spot Instances (can lose instances)
-- Dedicated Hosts
+- Dedicated Hosts (Entire Fisical Server)
