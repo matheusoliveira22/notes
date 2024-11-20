@@ -28,6 +28,7 @@ Name convention:
 - Savings Plan (1 & 3 years)
 	- Locked to specific instance family and AWS region
 - Spot Instances - most agressive discount (can lose instances)
+	- Spot Fleet - Spot Instances + (optional) Dedicated Host
 - Dedicated Hosts (Entire Fisical Server)
 	- Use Cases: Compliance Requirements, server-bound software licenses
 - Dedicated Instances (Not sharing hardware with other costumers)
