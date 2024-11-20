@@ -6,4 +6,5 @@
 	- Authorized IPs ranges - IPv4 and IPv6
 	- Access to Ports
 - Can be attached to multiple instances
-- They are locked down to a refion / VPC combinat
+- They are locked down to a refion / VPC combination
+- The SG lives outside the EC2, like this, if an request is blocked, the insance will not notice i
