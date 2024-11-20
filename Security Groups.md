@@ -2,3 +2,5 @@
 - They control how traffic is allowed into or out of an instance
 - They only contain allow rules
 - Can reference by IP or by Security Group
+- The security group can regulate:
+- 
