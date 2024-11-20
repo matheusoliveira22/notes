@@ -28,4 +28,4 @@ Name convention:
 - Savings Plan (1 & 3 years)
 - Spot Instances (can lose instances)
 - Dedicated Hosts (Entire Fisical Server)
-- Dedicated Instances ()
+- Dedicated Instances (Not sharing hardware with other costumers)
