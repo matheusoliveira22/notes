@@ -22,4 +22,4 @@ Name convention:
 	- Great for storage-intensive tasks
 	- Examples: Cache for in-memory caches, Data warehousing applications, Distributed File Systems
 
-### EC2 Pur
+### EC2 Purchasibg
