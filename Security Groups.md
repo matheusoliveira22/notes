@@ -8,4 +8,4 @@
 - Can be attached to multiple instances
 - They are locked down to a refion / VPC combination
 - The SG lives outside the EC2, like this, if an request is blocked, the insance will not notice it
-- It's good to mai
+- It's good to maintain one separated SG for ssh connectio
