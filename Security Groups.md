@@ -1,1 +1,2 @@
 - Fundamental of network security in AWS
+- They control how traffic is
