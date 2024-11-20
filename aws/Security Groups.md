@@ -15,4 +15,4 @@
 
 ### Classic Ports to know
 - 22 - SSH (Secure Shell)
-- 22 - FTP 
+- 22 - FTP (File Transfer Protocol)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Groups.md",
+                "file": "aws/Security Groups.md",
                 "mode": "source",
                 "source": false
               },
@@ -147,7 +147,7 @@
   "active": "8e14e2da169098c7",
   "lastOpenFiles": [
     "aws/EC2.md",
-    "Security Groups.md",
+    "aws/Security Groups.md",
     "aws/IAM.md",
     "aws"
   ]
