@@ -21,3 +21,5 @@ Name convention:
 - Storage Optimized (I, D, H)
 	- Great for storage-intensive tasks
 	- Examples: Cache for in-memory caches, Data warehousing applications, Distributed File Systems
+
+### EC2 Pur
