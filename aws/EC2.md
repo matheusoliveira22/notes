@@ -29,5 +29,6 @@ Name convention:
 	- Locked to specific instance family and AWS region
 - Spot Instances - most agressive discount (can lose instances)
 - Dedicated Hosts (Entire Fisical Server)
+	- Use Cases: Compliance Requirements
 - Dedicated Instances (Not sharing hardware with other costumers)
 - Capacity Reservation (Reserve capacity in an specific AZ for any duration)
