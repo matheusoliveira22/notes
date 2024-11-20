@@ -29,4 +29,4 @@ Name convention:
 - Spot Instances (can lose instances)
 - Dedicated Hosts (Entire Fisical Server)
 - Dedicated Instances (Not sharing hardware with other costumers)
-- Capacity Reservation (Reserve)
+- Capacity Reservation (Reserve capacity in an specific AZ for any duration)
