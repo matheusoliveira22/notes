@@ -5,3 +5,4 @@
 - The security group can regulate:
 	- Authorized IPs ranges - IPv4 and IPv6
 	- Access to Ports
+- Can be attached to
