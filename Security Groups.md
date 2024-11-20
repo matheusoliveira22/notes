@@ -4,4 +4,4 @@
 - Can reference by IP or by Security Group
 - The security group can regulate:
 	- Authorized IPs ranges - IPv4 and IPv6
-	- 
+	- Access to Ports
