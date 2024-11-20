@@ -32,3 +32,5 @@ Name convention:
 	- Use Cases: Compliance Requirements, server-bound software licenses
 - Dedicated Instances (Not sharing hardware with other costumers)
 - Capacity Reservation (Reserve capacity in an specific AZ for any duration)
+	- No billing discount
+	- 
