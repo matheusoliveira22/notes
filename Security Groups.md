@@ -6,4 +6,4 @@
 	- Authorized IPs ranges - IPv4 and IPv6
 	- Access to Ports
 - Can be attached to multiple instances
-- They are locked down to a refion / VPC
+- They are locked down to a refion / VPC combinat
