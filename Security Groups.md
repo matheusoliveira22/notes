@@ -1,4 +1,4 @@
-- Fundamental of network security in AWS
+- Firewall rules that are the fundamental of network security in AWS
 - They control how traffic is allowed into or out of an instance
 - They only contain allow rules
 - Can reference by IP or by Security Group
