@@ -25,7 +25,9 @@
 			- Sub-millisecond latency
 			- Max of 256000 PIOPS with an IOPs/GiB ratio of 1000:1
 	- st1 (HDD 125 GiB to 16 TiB) - Low cost HDD volume designed to be used frequently
+		- Max troughput 500 MiB, Max IOPS 500
 	- sc1 (HDD 125 GiB to 16 TiB) - Low cost HDD volume designed to be used less frequently
+		- Max troughput 250 MiB, Max IOPS 250
 	- **Only SSDs can be used as root volumes**
 
 ### Instance Store
