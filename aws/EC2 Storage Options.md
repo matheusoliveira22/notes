@@ -13,7 +13,9 @@
 	- Fast Snapshot Restore: Force full restore of the snapshot to have no latency on first use (costing more)
 - EBS Volume types:
 	- gp2/gp3 - General Purporse SSD: Balance performance, storage and price (Best for most workloads)
-		- gp2 - size of the volume and IOPs are linked at a rate of 3 IOPs per Gb
+		- Max size of 16 TiB
+		- gp2 - size of the volume and IOPs are linked at a rate of 3 IOPs per Gb to the max of 16000 IOPs
+		- gp3 
 	- io1/io2 - Highest Performance SSDs for mission critical, low-latency or high throughput workloads
 	- st1 (HDD) - Low cost HDD volume designed to be used frequently
 	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
