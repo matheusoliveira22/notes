@@ -23,7 +23,9 @@
 	- Provisioned IOPS
 		- Critical business applications with constant IOPS requirements or that requere more than 16000 IOPS
 		- Great for database workloads
-		- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
+		- io1:
+			- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
+			- Can increase IOPs and throughput independently of siz
 
 ### Instance Store
 - Fisical drive attached to the instance
