@@ -44,3 +44,5 @@ Name convention:
 - The common way EC2 handle public IP, is that every time it reboots, a new IP is assigned to it
 - A way to change that is to use **Elastic IPs** (public IPv4). You can have up to 5 Elastic IPs in an account, and it can be assigned to only one instance at a time.
 - Note that the usage of Elastic IPs for that purporse is disregarded, since there are better ways of architecturing it, like using random public IPs and assign an DNS name, or not use public IP and use a load balancer
+
+### Placement Groups
