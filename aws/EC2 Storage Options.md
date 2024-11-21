@@ -22,7 +22,7 @@
 			- Can increase IOPs and throughput independently of size
 		-  io2 (4 GiB to 64 TiB):
 			- Sub-millisecond latency
-			- Max of 256000 PIOPS
+			- Max of 256000 PIOPS with an IOPs/GiB ratio of 1000:1
 	- st1 (HDD) - Low cost HDD volume designed to be used frequently
 	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
 	- **Only SSDs can be used as root volumes**
