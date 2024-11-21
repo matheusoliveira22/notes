@@ -14,5 +14,5 @@
 
 ### Instance Store
 - Fisical drive attached to the instance
-- Higher performance
-- s
+- Higher I/O performance
+- Ephemeral, data only lives while the instance is running
