@@ -50,4 +50,15 @@ Name convention:
 - Strategies:
 	- Cluster: Cluster instances in a Low-latency group in an single AZ
 	- Spread: Spread instances accross underlying hardware (max 7 instances per group per AZ) - Critical Applications
-	- Partition: Spread instances accross many partitions (which rely on different sets of racks) on an AZ. That way if a partition fail, the other partitions won't. Up to 7 partitions per AZ. Scale to 100s of instances per group (Kassandra, Hadoop, etc)
+	- Partition: Spread instances accross many partitions (which rely on different sets of racks) on an AZ. That way if a partition fail, the other partitions won't. Up to 7 partitions per AZ. Scale to 100s of instances per group (Kassandra, Hadoop, etc). The EC2 instances get information about the partition as metadata
+
+### ENI Elastic Network Interface
+- Logical component in a VPC that represents a virtual network card
+- An ENI can have:
+	- One primary private IPv4, and one or more secondary IPv4
+	- One public IPv4
+	- Can be assigned one Elastic IP
+	- One or more security groups
+	- A MAC address
+- You are able to create an independent ENI and move them from one instance to another
+- They are bound to an specific AZ
