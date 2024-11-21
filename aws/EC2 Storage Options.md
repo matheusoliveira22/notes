@@ -21,7 +21,8 @@
 			- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
 			- Can increase IOPs and throughput independently of size
 		-  io2 (4 GiB to 64 TiB):
-		- 
+			- Sub-millisecond latency
+			- Max of 
 	- st1 (HDD) - Low cost HDD volume designed to be used frequently
 	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
 	- **Only SSDs can be used as root volumes**
