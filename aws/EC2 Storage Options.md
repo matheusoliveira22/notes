@@ -45,4 +45,5 @@
 - Is compatible with Linux AMIs only
 - File System grows automatically
 - Performance and Storage Classes:
-	- EFS Scale: 1000s of concurrent connections
+	- EFS Scale: 1000s of concurrent connections at 10GB+/s throughput to petabyte size NFS
+	- 
