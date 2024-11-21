@@ -42,4 +42,5 @@
 - Can be mount in many EC2 instances at once
 - The EC2 instances can be multi-AZ
 - It's high avaliable, scalable and costly (3x gp3 cost), pay per use
-- Is compatible with Linux A
+- Is compatible with Linux AMIs only
+- File System grows automatically
