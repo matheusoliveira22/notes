@@ -17,3 +17,4 @@
 - Higher I/O performance
 - Ephemeral, data only lives while the instance is running
 - Backups and replication are our resposability
+- Use cases: Buffer, cache, temporary
