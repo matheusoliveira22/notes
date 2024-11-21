@@ -25,7 +25,9 @@
 		- Great for database workloads
 		- io1:
 			- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
-			- Can increase IOPs and throughput independently of siz
+			- Can increase IOPs and throughput independently of size
+		- io2:
+		- 
 
 ### Instance Store
 - Fisical drive attached to the instance
