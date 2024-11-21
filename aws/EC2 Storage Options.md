@@ -12,7 +12,8 @@
 	- Recicle Bin For Snapshots: Snapshots aren't directly deleted, so you can retrieve then if the deletion was a mistake (configurable from 1 day to up to 1 year after the deletion)
 	- Fast Snapshot Restore: Force full restore of the snapshot to have no latency on first use (costing more)
 - EBS Volume types:
-- 
+	- gp2/gp3 - General Purporse SSD: Balance performance, storage and price (Best for most workloads)
+	- 
 
 ### Instance Store
 - Fisical drive attached to the instance
