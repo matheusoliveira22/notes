@@ -50,4 +50,4 @@ Name convention:
 - Strategies:
 	- Cluster: Cluster instances in a Low-latency group in an single AZ
 	- Spread: Spread instances accross underlying hardware (max 7 instances per group per AZ) - Critical Applications
-	- Partition: Spread instances accross many partitions (witch )
+	- Partition: Spread instances accross many partitions (which rely on a )
