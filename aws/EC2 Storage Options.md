@@ -22,6 +22,8 @@
 	- **Only SSDs can be used as root volumes**
 	- Provisioned IOPS
 		- Critical business applications with constant IOPS requirements or that requere more than 16000 IOPS
+		- Great for database workloads
+		- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
 
 ### Instance Store
 - Fisical drive attached to the instance
