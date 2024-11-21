@@ -38,3 +38,5 @@
 - Use cases: Buffer, cache, temporary content
 
 ### EFS - Elastic File System
+- It's a managed NFS - Network Fole System
+- Can be mount in various EC2 instances at 
