@@ -44,3 +44,5 @@
 - It's high avaliable, scalable and costly (3x gp3 cost), pay per use
 - Is compatible with Linux AMIs only
 - File System grows automatically
+- Performance and Storage Classes:
+	- EFS Scale: 1000s of concurrent connections
