@@ -40,4 +40,5 @@
 ### EFS - Elastic File System
 - It's a managed NFS - Network Fole System
 - Can be mount in many EC2 instances at once
-- the EC2 instances can be multi-
+- The EC2 instances can be multi-AZ
+- It's high avaliable, scalable and costly (3x gp3 cost)
