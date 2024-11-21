@@ -14,12 +14,13 @@
 - EBS Volume types:
 	- gp2/gp3 - General Purporse SSD: Balance performance, storage and price (Best for most workloads)
 		- Max size of 16 TiB
-		- gp2 - size of the volume and IOPs are linked at a rate of 3 IOPs per Gb to the max of 16000 IOPs
-		- gp3 - baseline of 3000 IOPs and 125 MB/s. Can increase up to 16000 IOPs and 1000 MB/s independent
+		- gp2 - size of the volume and IOPS are linked at a rate of 3 IOPs per Gb to the max of 16000 IOPS
+		- gp3 - baseline of 3000 IOPS and 125 MB/s. Can increase up to 16000 IOPS and 1000 MB/s independently
 	- io1/io2 - Highest Performance SSDs for mission critical, low-latency or high throughput workloads
 	- st1 (HDD) - Low cost HDD volume designed to be used frequently
 	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
 	- **Only SSDs can be used as root volumes**
+	- Provisioned IOPS
 
 ### Instance Store
 - Fisical drive attached to the instance
