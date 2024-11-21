@@ -40,3 +40,7 @@ Name convention:
 - Capacity Reservation (Reserve capacity in an specific AZ for any duration)
 	- No billing discount
 	- Charged by On-Demand rate even if you not run the instances
+### EC2 Public IP
+- The common way EC2 handle public IP, is that every time it reboots, a new IP is assigned to it
+- A way to change that is to use **Elastic IPs**. You can have up to 5 Elastic IPs in an account, and it can be assigned to only one instance at a time.
+- Note that the usage of Elastic IPs for that purporse is disregarded, since there are better ways of architecturing it, like using private IPs and DNS records
