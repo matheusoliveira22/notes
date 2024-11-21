@@ -46,4 +46,4 @@ Name convention:
 - Note that the usage of Elastic IPs for that purporse is disregarded, since there are better ways of architecturing it, like using random public IPs and assign an DNS name, or not use public IP and use a load balancer
 
 ### Placement Groups
-- Sometimes you may want to control the EC2 placement strategy. That can be achieve through 
+- Sometimes you may want to control the EC2 placement strategy. That can be achieve through **Placement Groups**
