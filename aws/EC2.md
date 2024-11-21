@@ -50,4 +50,4 @@ Name convention:
 - Strategies:
 	- Cluster: Cluster instances in a Low-latency group in an single AZ
 	- Spread: Spread instances accross underlying hardware (max 7 instances per group per AZ) - Critical Applications
-	- Partition: Spread instances accross many partitions (which rely on different sets of racks) on an AZ. Up to 7 partitions per AZ. Scale to 100s of instances per group (Kassandra, Hadoop, etc)
+	- Partition: Spread instances accross many partitions (which rely on different sets of racks) on an AZ. That way if a partition fail, the other partitions won't. Up to 7 partitions per AZ. Scale to 100s of instances per group (Kassandra, Hadoop, etc)
