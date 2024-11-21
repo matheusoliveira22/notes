@@ -56,3 +56,4 @@
 	- Standard
 	- Infrequent Access
 	- Archive (most discount)
+	- Implement lifecicle policies to move items between clas
