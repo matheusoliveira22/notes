@@ -6,3 +6,5 @@
 - They have a provisioned capacity
 - They are locked in an specific AZ
 	- To move an EBS volume from an AZ to another AZ or Region, first you must take an snapshot of it, and then create a new volume in the desired location
+- EBS Snapshots features:
+- 
