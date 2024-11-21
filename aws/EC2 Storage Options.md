@@ -17,7 +17,7 @@
 		- gp2 - size of the volume and IOPS are linked at a rate of 3 IOPs per Gb to the max of 16000 IOPS
 		- gp3 - baseline of 3000 IOPS and 125 MB/s. Can increase up to 16000 IOPS and 1000 MB/s independently
 	- io1/io2 - Provisioned IOPS Highest Performance SSDs for mission critical, low-latency or high throughput workloads
-		- **Supports EBS multi-attach**: up to 16 EC2 instances in the same AZ at once. **Must use a file system that is cluster awa**
+		- **Supports EBS multi-attach**: up to 16 EC2 instances in the same AZ at once. **Must use a file system that is cluster aware**
 		- io1 (4 GiB - 16 TiB):
 			- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
 			- Can increase IOPs and throughput independently of size
@@ -36,3 +36,5 @@
 - Ephemeral, data only lives while the instance is running
 - Backups and replication are our resposability
 - Use cases: Buffer, cache, temporary content
+
+### EFS - Elastic File System
