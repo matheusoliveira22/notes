@@ -49,5 +49,5 @@ Name convention:
 - Sometimes you may want to control the EC2 placement strategy. That can be achieve through **Placement Groups**
 - Strategies:
 	- Cluster: Cluster instances in a Low-latency group in an single AZ
-	- Spread: Spread 
+	- Spread: Spread instances accross underlying hardware (max 7 instances per AZ) - Critical Applications
 	- Partition: 
