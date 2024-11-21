@@ -16,6 +16,7 @@
 	- io1/io2 - Highest Performance SSDs for mission critical, low-latency or high throughput workloads
 	- st1 (HDD) - Low cost HDD volume designed to be used frequently
 	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
+	- **Only SSDs can be used as root volumes**
 
 ### Instance Store
 - Fisical drive attached to the instance

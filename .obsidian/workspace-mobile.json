@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/EC2 Storage Options.md",
+                "file": "aws/EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Storage Options"
+              "title": "EC2"
             }
           }
         ]
@@ -146,8 +146,8 @@
   },
   "active": "8e14e2da169098c7",
   "lastOpenFiles": [
-    "aws/EC2.md",
     "aws/EC2 Storage Options.md",
+    "aws/EC2.md",
     "aws/Security Groups.md",
     "aws/IAM.md",
     "aws"
