@@ -13,7 +13,8 @@
 	- Fast Snapshot Restore: Force full restore of the snapshot to have no latency on first use (costing more)
 - EBS Volume types:
 	- gp2/gp3 - General Purporse SSD: Balance performance, storage and price (Best for most workloads)
-	- io1/io2 - Highest Performance SSDs for mission critical, low-latenc
+	- io1/io2 - Highest Performance SSDs for mission critical, low-latency or high throughput workloads
+	- 
 
 ### Instance Store
 - Fisical drive attached to the instance
