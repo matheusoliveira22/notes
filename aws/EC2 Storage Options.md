@@ -41,4 +41,4 @@
 - It's a managed NFS - Network Fole System
 - Can be mount in many EC2 instances at once
 - The EC2 instances can be multi-AZ
-- It's high avaliable, scalable and costly (3x gp3 cost)
+- It's high avaliable, scalable and costly (3x gp3 cost), pay per use
