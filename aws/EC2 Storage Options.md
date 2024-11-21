@@ -44,10 +44,12 @@
 - It's high avaliable, scalable and costly (3x gp3 cost), pay per use
 - Is compatible with Linux AMIs only
 - File System grows automatically
-- Performance and Storage Classes:
+- Performance:
 	- EFS Scale: 1000s of concurrent connections at 10GB+/s throughput to petabyte size NFS
 	- Performance Mode (Set on creation): General purporse (balance), Max I/O (higher latency, throughput, highly parallel (big data applications))
 	- Throughput Mode:
-		- Bursting - from 50 MB/s up to 100 MB
+		- Bursting - from 50 MB/s up to 100 MB/s
 		- Provisioned
 		- Elastic - Based on workload
+- Storage Classes:
+	- 
