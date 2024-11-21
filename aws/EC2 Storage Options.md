@@ -17,15 +17,15 @@
 		- gp2 - size of the volume and IOPS are linked at a rate of 3 IOPs per Gb to the max of 16000 IOPS
 		- gp3 - baseline of 3000 IOPS and 125 MB/s. Can increase up to 16000 IOPS and 1000 MB/s independently
 	- io1/io2 - Provisioned IOPS Highest Performance SSDs for mission critical, low-latency or high throughput workloads
-		- Supports EBS multi-att
+		- Supports EBS multi-attach
 		- io1 (4 GiB - 16 TiB):
 			- Max PIOPS 64000 for nitro EC2 instances or 32000 for others
 			- Can increase IOPs and throughput independently of size
 		-  io2 (4 GiB to 64 TiB):
 			- Sub-millisecond latency
 			- Max of 256000 PIOPS with an IOPs/GiB ratio of 1000:1
-	- st1 (HDD) - Low cost HDD volume designed to be used frequently
-	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
+	- st1 (HDD 125 GiB to 16 TiB) - Low cost HDD volume designed to be used frequently
+	- sc1 (HDD 125 GiB to 16 TiB) - Low cost HDD volume designed to be used less frequently
 	- **Only SSDs can be used as root volumes**
 
 ### Instance Store
