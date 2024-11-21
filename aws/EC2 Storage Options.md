@@ -16,3 +16,4 @@
 - Fisical drive attached to the instance
 - Higher I/O performance
 - Ephemeral, data only lives while the instance is running
+- Backups and replication are our resposability
