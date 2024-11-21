@@ -39,4 +39,5 @@
 
 ### EFS - Elastic File System
 - It's a managed NFS - Network Fole System
-- Can be mount in various EC2 instances at 
+- Can be mount in many EC2 instances at once
+- the EC2 instances can be multi-
