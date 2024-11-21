@@ -47,3 +47,7 @@ Name convention:
 
 ### Placement Groups
 - Sometimes you may want to control the EC2 placement strategy. That can be achieve through **Placement Groups**
+- Strategies:
+	- Cluster
+	- Partition
+	- 
