@@ -21,6 +21,7 @@
 	- sc1 (HDD) - Low cost HDD volume designed to be used less frequently
 	- **Only SSDs can be used as root volumes**
 	- Provisioned IOPS
+		- Critical business applications with constant IOPS requirements or that requere more than 16000 IOPS
 
 ### Instance Store
 - Fisical drive attached to the instance
