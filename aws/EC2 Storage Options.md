@@ -47,3 +47,5 @@
 - Performance and Storage Classes:
 	- EFS Scale: 1000s of concurrent connections at 10GB+/s throughput to petabyte size NFS
 	- Performance Mode (Set on creation): General purporse (balance), Max I/O (higher latency, throughput, highly parallel (big data applications))
+	- Throughput Mode:
+		- Burs
