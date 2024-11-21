@@ -53,4 +53,6 @@
 		- Elastic - Based on workload
 - Storage Classes:
 	- Storage Tiers (lifecicle management feature)
-	- Infrequent Acce
+	- Standard
+	- Infrequent Access
+	- Archive (most discount)
