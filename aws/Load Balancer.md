@@ -1,0 +1,17 @@
+### ALB - Application Load Balancer
+- Actuates on Layer 7 (HTTP)
+- Load balancing to multiple HTTP application across machines (target groups)
+- Load balancing to multiple applications on the same machine (containers)
+- Support for HTTP/2 and WebSocket
+- Supports redirects (from HTTP to HTTPS for example)
+- Routing tables to different target groups:
+	- Routing based on path in URL (example: baseurl/**users** and baseurl/**posts**)
+	- Routing based on hostname in URL (example: baseurl1.com and baseurl2.com)
+	- Routing based on Query String, Headers (example: baseurl/users?**id=123&order=false**)
+- ALB are a great fit for micro services & container-based applications
+- Has a port mapping feature to redirect to a dynamic port in ECS
+- **Health checks are done on the target group level**
+- The ALB has a fixed hostname (XXX.region.elb.amazonaws.com)
+- The application servers don't see the IP of the client directly
+	- The true IP of the client is inserted in the header X-Forwarded-For
+	- We can also get port (X-Forwarded-Port) and protocol (X-Forwarder-Proto)
