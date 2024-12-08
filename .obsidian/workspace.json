@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/Storage Comparison.md",
+                "file": "aws/Network Protection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage Comparison"
+              "title": "Network Protection"
             }
           }
         ]
@@ -164,10 +164,13 @@
   },
   "active": "a196ea17b5ca97eb",
   "lastOpenFiles": [
-    "Sem título.md",
     "aws/Storage Comparison.md",
-    "aws/Route 53.md",
+    "aws/Network Protection.md",
+    "aws/EC2 Storage Options.md",
     "aws/Important Ports.md",
+    "aws/VPC Summary.md",
+    "Sem título.md",
+    "aws/Route 53.md",
     "aws/RDS Main Topics.md",
     "aws/Load Balancer.md",
     "kubernetes/Commands for Managing Kubernetes Cluster.md",
