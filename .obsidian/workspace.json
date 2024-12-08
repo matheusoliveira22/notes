@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/Network Protection.md",
+                "file": "aws/CloudFront & Global Accelerator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Protection"
+              "title": "CloudFront & Global Accelerator"
             }
           }
         ]
@@ -164,15 +164,16 @@
   },
   "active": "a196ea17b5ca97eb",
   "lastOpenFiles": [
-    "aws/Storage Comparison.md",
+    "aws/Route 53.md",
+    "aws/CloudFront & Global Accelerator.md",
+    "aws/Load Balancer.md",
     "aws/Network Protection.md",
+    "aws/Storage Comparison.md",
     "aws/EC2 Storage Options.md",
     "aws/Important Ports.md",
     "aws/VPC Summary.md",
     "Sem título.md",
-    "aws/Route 53.md",
     "aws/RDS Main Topics.md",
-    "aws/Load Balancer.md",
     "kubernetes/Commands for Managing Kubernetes Cluster.md",
     "aws/IAM.md",
     "aws",
